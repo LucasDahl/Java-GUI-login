@@ -10,7 +10,7 @@
         android:id="@+id/button25"
         android:layout_width="45dp"
         android:layout_height="40dp"
-        android:text="Button"
+        android:text="30'"
         tools:layout_editor_absoluteX="75dp"
         tools:layout_editor_absoluteY="560dp" />
 
@@ -18,7 +18,7 @@
         android:id="@+id/button26"
         android:layout_width="45dp"
         android:layout_height="40dp"
-        android:text="Button"
+        android:text="45'"
         tools:layout_editor_absoluteX="116dp"
         tools:layout_editor_absoluteY="560dp" />
 
@@ -26,7 +26,7 @@
         android:id="@+id/button27"
         android:layout_width="45dp"
         android:layout_height="40dp"
-        android:text="Button"
+        android:text="60'"
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="560dp" />
 
@@ -34,7 +34,7 @@
         android:id="@+id/button28"
         android:layout_width="45dp"
         android:layout_height="40dp"
-        android:text="Button"
+        android:background="@drawable/infinitypng"
         tools:layout_editor_absoluteX="206dp"
         tools:layout_editor_absoluteY="560dp" />
 
@@ -177,7 +177,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/forestRain"
-        android:text="Button"
         tools:layout_editor_absoluteX="283dp"
         tools:layout_editor_absoluteY="489dp" />
 
@@ -194,7 +193,7 @@
         android:id="@+id/button24"
         android:layout_width="45dp"
         android:layout_height="40dp"
-        android:text="Button"
+        android:text="15'"
         tools:layout_editor_absoluteX="30dp"
         tools:layout_editor_absoluteY="560dp" />
 
@@ -202,7 +201,7 @@
         android:id="@+id/button29"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Stop Sounds"
         tools:layout_editor_absoluteX="284dp"
         tools:layout_editor_absoluteY="610dp" />
 
@@ -218,8 +217,8 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="56dp"
+        android:text="Multiple Sounds"
+        tools:layout_editor_absoluteX="41dp"
         tools:layout_editor_absoluteY="621dp" />
 
     <TextView
