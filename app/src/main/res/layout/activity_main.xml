@@ -45,146 +45,148 @@
         tools:layout_editor_absoluteY="57dp"/>
 
     <Button
-        android:id="@+id/button14"
+        android:id="@+id/campfire"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/campfire"
         tools:layout_editor_absoluteX="284dp"
         tools:layout_editor_absoluteY="323dp" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/hairdryer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/hairdryer"
         tools:layout_editor_absoluteX="284dp"
         tools:layout_editor_absoluteY="164dp" />
 
     <Button
-        android:id="@+id/button19"
+        android:id="@+id/country"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="148dp"
+        android:background="@drawable/country"
+        tools:layout_editor_absoluteX="163dp"
         tools:layout_editor_absoluteY="489dp" />
 
     <Button
-        android:id="@+id/button11"
+        android:id="@+id/train"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/train"
         tools:layout_editor_absoluteX="283dp"
         tools:layout_editor_absoluteY="243dp" />
 
     <Button
-        android:id="@+id/button10"
+        android:id="@+id/airplane"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="148dp"
+        android:background="@drawable/airplane"
+        tools:layout_editor_absoluteX="163dp"
         tools:layout_editor_absoluteY="243dp" />
 
     <Button
-        android:id="@+id/button6"
+        android:id="@+id/dryer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/dryer"
         tools:layout_editor_absoluteX="28dp"
         tools:layout_editor_absoluteY="164dp" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/womb"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="148dp"
+        android:background="@drawable/womb"
+        tools:layout_editor_absoluteX="163dp"
         tools:layout_editor_absoluteY="88dp" />
 
     <Button
-        android:id="@+id/button17"
+        android:id="@+id/shower"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="282dp"
+        android:background="@drawable/shower"
+        tools:layout_editor_absoluteX="284dp"
         tools:layout_editor_absoluteY="405dp" />
 
     <Button
-        android:id="@+id/button13"
+        android:id="@+id/pond"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="148dp"
+        android:background="@drawable/pond"
+        tools:layout_editor_absoluteX="163dp"
         tools:layout_editor_absoluteY="323dp" />
 
     <Button
-        android:id="@+id/button15"
+        android:id="@+id/storm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/storm"
         tools:layout_editor_absoluteX="28dp"
         tools:layout_editor_absoluteY="405dp" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/fan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="148dp"
+        android:background="@drawable/fan"
+        tools:layout_editor_absoluteX="163dp"
         tools:layout_editor_absoluteY="164dp" />
 
     <Button
-        android:id="@+id/button9"
+        android:id="@+id/car"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/car"
         tools:layout_editor_absoluteX="28dp"
         tools:layout_editor_absoluteY="243dp" />
 
     <Button
-        android:id="@+id/button16"
+        android:id="@+id/rain"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="148dp"
+        android:background="@drawable/rain"
+        tools:layout_editor_absoluteX="163dp"
         tools:layout_editor_absoluteY="405dp" />
 
     <Button
-        android:id="@+id/button18"
+        android:id="@+id/bird"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/bird"
         tools:layout_editor_absoluteX="28dp"
         tools:layout_editor_absoluteY="489dp" />
 
     <Button
-        android:id="@+id/button12"
+        android:id="@+id/waves"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/waves"
         tools:layout_editor_absoluteX="28dp"
         tools:layout_editor_absoluteY="323dp" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/whiteNoise"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/whitenoise"
         tools:layout_editor_absoluteX="284dp"
         tools:layout_editor_absoluteY="88dp" />
 
     <Button
-        android:id="@+id/button20"
+        android:id="@+id/forestRain"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@drawable/forestRain"
         android:text="Button"
         tools:layout_editor_absoluteX="283dp"
         tools:layout_editor_absoluteY="489dp" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/babymobile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/babymobile"
+        android:text=""
         tools:layout_editor_absoluteX="28dp"
         tools:layout_editor_absoluteY="88dp" />
 
@@ -202,14 +204,14 @@
         android:layout_height="wrap_content"
         android:text="Button"
         tools:layout_editor_absoluteX="284dp"
-        tools:layout_editor_absoluteY="609dp" />
+        tools:layout_editor_absoluteY="610dp" />
 
     <Switch
         android:id="@+id/switch1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Switch"
-        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="621dp" />
 
     <TextView
